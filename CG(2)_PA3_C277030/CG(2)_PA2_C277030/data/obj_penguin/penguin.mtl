@@ -1,0 +1,14 @@
+# Blender 4.2.3 LTS MTL File: 'penguin.blend'
+# www.blender.org
+
+newmtl Penguin_Mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/lkh77/Downloads/penguin/01_OBJ_penguin/D:/Houdini/IndefineIO/109.penguin_noot/pub/textures/Penguin_Albedo.png
+map_Ns C:/Users/lkh77/Downloads/penguin/01_OBJ_penguin/D:/Houdini/IndefineIO/109.penguin_noot/pub/textures/Penguin_Roughness.png
+map_refl C:/Users/lkh77/Downloads/penguin/01_OBJ_penguin/D:/Houdini/IndefineIO/109.penguin_noot/pub/textures/Penguin_Metalness.png
+map_Bump C:/Users/lkh77/Downloads/penguin/01_OBJ_penguin/D:/Houdini/IndefineIO/109.penguin_noot/pub/textures/Penguin_Normal.png
